@@ -6,13 +6,13 @@
 
 开放原子开源基金会于 2023 年发起首届“**开放原子开源大赛**”，旨在联合开源组织、企事业单位、高等院校、科研院所、行业组织、投融资机构等多方资源，搭建面向全球开源领域的前沿技术竞技、优秀人才选拔、创新成果展示、商业转化引导和对接交流合作平台，广泛传播开源文化、普及开源知识、推广开源项目、提升开源技能，为推进开源生态繁荣和可持续发展提供动力和支撑。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/1490980/1677836854188-e1aea805-7037-4ccc-ad04-02dba2aa9d06.png#averageHue=%2358a1fe&clientId=u07012008-9f67-4&from=paste&height=312&id=u445ff6c9&name=image.png&originHeight=701&originWidth=1890&originalType=binary&ratio=2.25&rotation=0&showTitle=false&size=1145097&status=done&style=none&taskId=uf84e913b-f5ec-4288-8107-613c728e23d&title=&width=840)
+![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzV4YnhxLWltYWdlLnBuZyJ9)
 
 大赛期望达到以赛促用、以赛促教、以赛促学、以赛促练、以赛促创的效果，以开源的方式广泛征集赛题赛道，以开放协作的方式参与比赛，以分布式同行评审方式进行评比，通过大赛培养选拨一批顶尖人才，攻克重点技术难题，打造产业应用生态，厚植开源创新土壤，弘扬开放共享、奉献协作精神，为开源事业发展蓄势储能。
 
 “**OpenDigger 开源软件生态数据分析挖掘平台挑战赛**”即是在这样一个背景下，通过申请、评审、通过的方式，成为本次大赛的数据基础设施赛道下的重要赛事，由**工业和信息化部**主办，由**开放原子开源基金会**、**央视网**承办，由**华东师范大学**、**开源社**联合承办，由**木兰开源社区**、**CCF 信息系统专委会**、**CCF 开源发展委员会**作为顾问机构，**X-lab 开放实验室**作为技术支持。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/1490980/1677835736216-ae89df7b-7007-4048-b91d-b8be2a28bc43.png#averageHue=%23fefefd&clientId=u0315a51e-eb64-4&from=paste&height=148&id=ucc56637f&name=image.png&originHeight=333&originWidth=899&originalType=binary&ratio=2.25&rotation=0&showTitle=false&size=134561&status=done&style=none&taskId=u8539e417-0676-40e7-a25f-8d0d48ed4ef&title=&width=399.55555555555554)
+<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzV4eHI5LWltYWdlLnBuZyJ9"/>
 
 #### 2、赛事简介
 
@@ -20,7 +20,7 @@
 
 两个主题赛包括：**任务类（T）**聚焦代码与算法的实现，OpenDigger 提供作品所需要的相关数据与基础设施，选手代码贡献提交到指定代码仓库中；**作品类（W）**聚焦在可视化作品设计与实现上，OpenDigger 提供作品所需要的相关数据，选手选取某个可视化工具进行作品设计，并在指定的代码仓库中进行提交；一个**贡献度排名赛（R）**为鼓励参赛选手尽可能通过协作的方式对 OpenDigger 项目进行贡献，组委会通过技术手段，记录并核算参赛选手在整个比赛期间的贡献，并根据贡献度排名进行奖励。参赛选手可以选择上述赛事类别中的一个或多个进行参加，不做任何限制。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/1490980/1677718751403-b8fa5116-1342-42e5-ac83-1957800fb257.png#averageHue=%239baacd&clientId=u86396931-f872-4&from=paste&height=247&id=ue2a27ddf&name=image.png&originHeight=1063&originWidth=1675&originalType=binary&ratio=2.25&rotation=0&showTitle=false&size=78984&status=done&style=none&taskId=u13f64eec-bb16-4903-babd-bf20167e08b&title=&width=388.4444580078125)
+<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYyajJkLWltYWdlLnBuZyJ9"/>
 
 关于 OpenDigger 项目的详细情况可以参见：[http://www.x-lab.info/open-digger](http://www.x-lab.info/open-digger/#/)
 
@@ -92,7 +92,7 @@ OpenSODA 挑战赛的官方平台为：[https://competition.atomgit.com/](https:
 - **贡献开源**：鼓励大家参与开源贡献，带领大家如何开源协作；
 - **发展开源**：深入了解开源生态发展，参与开源生态的共建。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/1490980/1677826429945-ec7629bd-5290-4357-a6a6-25c535cdab16.png#averageHue=%23f8eada&clientId=u00a12f94-f0de-4&from=paste&height=242&id=u2e16ea78&name=image.png&originHeight=545&originWidth=787&originalType=binary&ratio=2.25&rotation=0&showTitle=false&size=148719&status=done&style=none&taskId=u41e03a58-c0ae-41c6-a731-83f62bc23cb&title=&width=349.77777777777777)
+<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYzZGM1LWltYWdlLnBuZyJ9"/>
 
 培训课程的详细情况可以参见 OpenSODA 挑战赛官方仓库：[https://atomgit.com/x-lab/OpenSODA](https://atomgit.com/x-lab/OpenSODA)
 
