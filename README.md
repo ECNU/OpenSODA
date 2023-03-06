@@ -12,7 +12,7 @@
 
 “**OpenDigger 开源软件生态数据分析挖掘平台挑战赛**”即是在这样一个背景下，通过申请、评审、通过的方式，成为本次大赛的数据基础设施赛道下的重要赛事，由**工业和信息化部**主办，由**开放原子开源基金会**、**央视网**承办，由**华东师范大学**、**开源社**联合承办，由**木兰开源社区**、**CCF 信息系统专委会**、**CCF 开源发展委员会**作为顾问机构，**X-lab 开放实验室**作为技术支持。
 
-<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzV4eHI5LWltYWdlLnBuZyJ9"/>
+![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzV4eHI5LWltYWdlLnBuZyJ9)
 
 #### 2、赛事简介
 
@@ -20,7 +20,7 @@
 
 两个主题赛包括：**任务类（T）**聚焦代码与算法的实现，OpenDigger 提供作品所需要的相关数据与基础设施，选手代码贡献提交到指定代码仓库中；**作品类（W）**聚焦在可视化作品设计与实现上，OpenDigger 提供作品所需要的相关数据，选手选取某个可视化工具进行作品设计，并在指定的代码仓库中进行提交；一个**贡献度排名赛（R）**为鼓励参赛选手尽可能通过协作的方式对 OpenDigger 项目进行贡献，组委会通过技术手段，记录并核算参赛选手在整个比赛期间的贡献，并根据贡献度排名进行奖励。参赛选手可以选择上述赛事类别中的一个或多个进行参加，不做任何限制。
 
-<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYyajJkLWltYWdlLnBuZyJ9"/>
+![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYyajJkLWltYWdlLnBuZyJ9)
 
 关于 OpenDigger 项目的详细情况可以参见：[http://www.x-lab.info/open-digger](http://www.x-lab.info/open-digger/#/)
 
@@ -92,7 +92,7 @@ OpenSODA 挑战赛的官方平台为：[https://competition.atomgit.com/](https:
 - **贡献开源**：鼓励大家参与开源贡献，带领大家如何开源协作；
 - **发展开源**：深入了解开源生态发展，参与开源生态的共建。
 
-<image style="display:block;margin:0 auto;" width="400" src="https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYzZGM1LWltYWdlLnBuZyJ9"/>
+![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYzZGM1LWltYWdlLnBuZyJ9)
 
 培训课程的详细情况可以参见 OpenSODA 挑战赛官方仓库：[https://atomgit.com/x-lab/OpenSODA](https://atomgit.com/x-lab/OpenSODA)
 
