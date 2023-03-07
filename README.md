@@ -12,8 +12,6 @@
 
 “**OpenDigger 开源软件生态数据分析挖掘平台挑战赛**”即是在这样一个背景下，通过申请、评审、通过的方式，成为本次大赛的数据基础设施赛道下的重要赛事，由**工业和信息化部**主办，由**开放原子开源基金会**、**央视网**承办，由**华东师范大学**、**开源社**联合承办，由**木兰开源社区**、**CCF 信息系统专委会**、**CCF 开源发展委员会**作为顾问机构，**X-lab 开放实验室**作为技术支持。
 
-![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzV4eHI5LWltYWdlLnBuZyJ9)
-
 #### 2、赛事简介
 
 **OpenDigger** 是一个面向开源软件生态数据的一站式分析挖掘平台，目标是构建开源领域的数据生态，成为促进开源生态持续发展的数据基础设施开源项目，包括软件开发活动数据、软件生态对象关系数据、标签数据、度量指标、度量模型、实现算法、分析工具、以及大量社区分析案例集等，目前正在木兰开源社区孵化。**OpenDigger 开源软件生态数据分析挖掘平台挑战赛**（**Open **Source **So**ftware Ecosystem **Da**ta Analysis and Mining Platform Competition，**OpenSODA**）采取“2 + 1”的模式，**两个主题赛**和**一个贡献度排名赛**。
