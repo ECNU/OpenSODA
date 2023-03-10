@@ -94,7 +94,7 @@ OpenSODA 在开放原子开源大赛中的官方平台为：[https://competition
 
 ![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYzZGM1LWltYWdlLnBuZyJ9)
 
-培训课程的详细情况可以参见 OpenSODA 挑战赛官方仓库：[https://atomgit.com/x-lab/OpenSODA](https://atomgit.com/x-lab/OpenSODA)
+培训课程的详细情况请见[《开源软件通识》](https://github.com/X-lab2017/oss101)
 
 **7、评审专家委员会**
 
