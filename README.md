@@ -1,5 +1,10 @@
 # OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛
 
+#### News
+
+- 3 月 20 日，报名通道正式打开：https://xlab2017.yuque.com/staff-kbz9wp/olpzth/ma124i0lhi45h8xq?singleDoc# 《⛵OpenDigger 开源挑战赛报名流程正式发布》
+- 3 月 10 日，大赛正式启动，赛题发布：https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vgzgtua6h3n0n7et?singleDoc# 《OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛即将启动》
+
 #### 1、赛事背景
 
 随着开源技术体系逐渐成为全球数字化转型的核心驱动力，开源软件已经成为各类信息系统构建的公共基础件，关系着国家数字经济基础设施的未来。开源软件/组件与开源开放信息系统在各行业的持续发展，离不开开源知识体系的构建与开源人才的培养，加速培育中国主导的开源生态也已成为包括国家十四五规划在内的共识。
