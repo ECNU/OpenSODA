@@ -1,9 +1,9 @@
 # OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛
 
-#### News
+#### 🔥🔥🔥News
 
 - 3 月 20 日，报名通道正式打开：[《⛵OpenDigger 开源挑战赛报名流程正式发布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/ma124i0lhi45h8xq?singleDoc#)
-- 3 月 10 日，大赛正式启动，赛题发布：[《OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛即将启动》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vgzgtua6h3n0n7et?singleDoc#)
+- 3 月 10 日，大赛正式启动，赛题发布：[《🎊OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛即将启动》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vgzgtua6h3n0n7et?singleDoc#)
 
 #### 1、赛事背景
 
