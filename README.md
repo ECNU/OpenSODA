@@ -2,6 +2,8 @@
 
 #### 🔥🔥🔥News
 
+- 4 月 10 日，OpenSODA 挑战赛第二轮通知：[《🎊🎊OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛通知（第二轮）》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/khdrhgl063py1mqm?singleDoc# )
+- 4 月 09 日，OpenSODA 赛题解读一览：[《「💁赛题解读」OpenSODA 赛题解读一览》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/hxlwkpfhyvf2p5xm?singleDoc# )
 - 4 月 05 日，初赛知识问答正式发布：[《🏂OpenSODA 挑战赛初赛知识问答正式发布，欢迎来战！》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/gghgqg6z3tztgpau?singleDoc# )
 - 4 月 03 日，《开源软件通识》第一部分完成上线：[《🎪 给所有 OpenSODA 参赛选手的通识课》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/umkehx7phbgg593s?singleDoc# )
 - 3 月 20 日，报名通道正式打开：[《⛵OpenDigger 开源挑战赛报名流程正式发布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/ma124i0lhi45h8xq?singleDoc#)
