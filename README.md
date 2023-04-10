@@ -16,7 +16,7 @@
 开放原子开源基金会于 2023 年发起首届“**开放原子开源大赛**”，旨在联合开源组织、企事业单位、高等院校、科研院所、行业组织、投融资机构等多方资源，搭建面向全球开源领域的前沿技术竞技、优秀人才选拔、创新成果展示、商业转化引导和对接交流合作平台，广泛传播开源文化、普及开源知识、推广开源项目、提升开源技能，为推进开源生态繁荣和可持续发展提供动力和支撑。
 
 
-![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxmMGxzY25mLWltYWdlLnBuZyJ9)
+![](./assets/1-opensoda2023-badge.jpeg)
 
 大赛期望达到以赛促用、以赛促教、以赛促学、以赛促练、以赛促创的效果，以开源的方式广泛征集赛题赛道，以开放协作的方式参与比赛，以分布式同行评审方式进行评比，通过大赛培养选拨一批顶尖人才，攻克重点技术难题，打造产业应用生态，厚植开源创新土壤，弘扬开放共享、奉献协作精神，为开源事业发展蓄势储能。
 
@@ -29,7 +29,7 @@
 
 两个主题赛包括：**任务类（T）** 聚焦代码与算法的实现，OpenDigger 提供作品所需要的相关数据与基础设施，选手代码贡献提交到指定代码仓库中；**作品类（W）** 聚焦在可视化作品设计与实现上，OpenDigger 提供作品所需要的相关数据，选手选取某个可视化工具进行作品设计，并在指定的代码仓库中进行提交；一个**贡献度排名赛（R）** 为鼓励参赛选手尽可能通过协作的方式对 OpenDigger 项目进行贡献，组委会通过技术手段，记录并核算参赛选手在整个比赛期间的贡献，并根据贡献度排名进行奖励。参赛选手可以选择上述赛事类别中的一个或多个进行参加，不做任何限制。
 
-![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYyajJkLWltYWdlLnBuZyJ9)
+![](./assets/2-opendigger-architecture.png)
 
 OpenDigger 项目的官方网站为：[http://www.x-lab.info/open-digger/](http://www.x-lab.info/open-digger/)
 
@@ -101,7 +101,7 @@ OpenSODA 在开放原子开源大赛中的官方平台为：[https://competition
 - **贡献开源**：鼓励大家参与开源贡献，带领大家如何开源协作；
 - **发展开源**：深入了解开源生态发展，参与开源生态的共建。
 
-![](https://atomgit.com/api/v3/common/image?path=eyJkaXIiOiJjb2RldXAvMjk1MDIvMjAyMzAzL2NvbW1lbnQvIiwiZmlsZSI6ImxldzYzZGM1LWltYWdlLnBuZyJ9)
+![](./assets/3-opensource-three-steps.png)
 
 培训课程的详细情况请见[《开源软件通识》](https://github.com/X-lab2017/oss101)
 
