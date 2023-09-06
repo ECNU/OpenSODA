@@ -1,6 +1,8 @@
 # OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛
 
 #### 🔥🔥🔥News
+- 8 月 29 日，[总投入超5000万元的开源大赛火热报名中](https://mp.weixin.qq.com/s/9WaLM8Ym6XL5jocd-V7ODA)
+- 8 月 29 日，[2023开源和信息消费大赛新闻发布会在京召开](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2023/art_d65d3e3e187d458bacd72b659ab9e3ff.html?share_token=eb12332d-f1e6-487d-9930-28d647eb2c89)
 - 8 月 03 日，OpenSODA 挑战赛量化评分规则公布：[《📢OpenSODA 挑战赛量化评分规则》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/wltv2k6y4k5pohpg?singleDoc)
 - 8 月 02 日，OpenSODA 挑战赛第一批决赛入围名单公布：[《📢OpenSODA 挑战赛第一批决赛入围名单发布！》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/gnsyvdce5wg1x4bg?singleDoc)
 - 5 月 21 日，OpenSODA 挑战赛整体时间调整通知：[《📢关于 OpenSODA 挑战赛整体时间调整通知》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/tyyu5od84vxsi69l)
