@@ -1,7 +1,6 @@
 # OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛
 
 #### 🔥🔥🔥News
-- OpenSODA 开源贡献奖名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）开源贡献奖名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/xzsuzxhnp6wwx5n4)
 - OpenSODA 一二三等奖名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）一二三等奖名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/igydnl9l7bdfyyb6)
 - OpenSODA 挑战赛决赛16强名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）决赛 16 强名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vl8seubk3ynhvuw8)
 - OpenSODA 挑战赛决赛作品提交通道已开启：[《📢OpenSODA 挑战赛决赛作品提交通道已开启》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/pofgoqt3xg3gc8qz)
@@ -9,10 +8,6 @@
 - OpenSODA 挑战赛复赛入围名单公布：[《📢OpenSODA 挑战赛进入复赛名单发布暨作品提交时间延长通知》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/yfx21sg8qh98y5ek?singleDoc#)
 - OpenSODA 开放数据集正式发布：[《🎨OpenSODA 挑战赛开放数据集正式发布！》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/tq36xvyzg9b880hy?singleDoc#)
 - OpenSODA 初赛知识问答正式发布：[《🏂OpenSODA 挑战赛初赛知识问答正式发布，欢迎来战！》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/gghgqg6z3tztgpau?singleDoc# )
-- OpenSODA 挑战赛量化评分规则公布：[《📢OpenSODA 挑战赛量化评分规则》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/wltv2k6y4k5pohpg?singleDoc)
-- OpenSODA 赛题解读一览：[《「💁赛题解读」OpenSODA 赛题解读一览》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/hxlwkpfhyvf2p5xm?singleDoc# )
-- OpenSODA 报名通道正式打开：[《⛵OpenDigger 开源挑战赛报名流程正式发布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/ma124i0lhi45h8xq?singleDoc#)
-- OpenSODA 大赛正式启动，赛题发布：[《🎊OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛即将启动》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vgzgtua6h3n0n7et?singleDoc#)
 
 #### 1、赛事背景
 
