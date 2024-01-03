@@ -1,6 +1,7 @@
 # OpenSODA | OpenDigger 开源软件生态数据分析挖掘平台挑战赛
 
 #### 🔥🔥🔥News
+- OpenSODA 开源贡献奖名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）开源贡献奖名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/xzsuzxhnp6wwx5n4)
 - OpenSODA 一二三等奖名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）一二三等奖名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/igydnl9l7bdfyyb6)
 - OpenSODA 挑战赛决赛16强名单公布：[《📢OpenDigger 开源软件生态数据分析挖掘平台挑战赛（OpenSODA）决赛 16 强名单公布》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/vl8seubk3ynhvuw8)
 - OpenSODA 挑战赛决赛作品提交通道已开启：[《📢OpenSODA 挑战赛决赛作品提交通道已开启》](https://xlab2017.yuque.com/staff-kbz9wp/olpzth/pofgoqt3xg3gc8qz)
